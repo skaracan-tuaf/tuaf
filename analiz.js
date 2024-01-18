@@ -8,9 +8,10 @@
 * Müşteri ekle
 * İstatistikleri kapat
 * Profil sayfası ile veritabanını bağla
-* Ziyaretçi trafiğini yap
-* Sosyal medyaları ekle
+* Ziyaretçi trafiğini yap.
+* Sosyal medyaları ekle.
 * Müşteriler adres ekleyip güncellesin
+* Sipariş oluşturuldu ekranını düzelt.
 * Eğer müşteri oturum açmışsa ürüne yorum eklerken sadece yorum bölümü görünsün
 * Eğer müşteri oturum açmışsa ödeme bölümünde müşterinin adresi otomatik gelsin
 * Gizlilik Sözleşmesi, Mesafeli Satış Sözleşmesi, İade Sözleşmesi, Üyelik Sözleşmesi,

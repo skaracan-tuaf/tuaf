@@ -1,4 +1,4 @@
-// 
+// https://www.ideasoft.com.tr/konu/ incele
 * Satıştan sonra stok azalt. Sıfır olanları gösterme veya Stokta yok etiketi yap.
 * Öznitelikleri aç. Variant olarak ekle
 * Kupon oluştur

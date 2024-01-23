@@ -1,4 +1,5 @@
 // https://www.ideasoft.com.tr/konu/ incele
+// https://www.youtube.com/watch?v=8Udlzx5dRM0&ab_channel=SurfsideMedia
 * Satıştan sonra stok azalt. Sıfır olanları gösterme veya Stokta yok etiketi yap.
 * Öznitelikleri aç. Variant olarak ekle
 * Kupon oluştur
